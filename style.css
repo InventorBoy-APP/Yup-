@@ -1,0 +1,41 @@
+body{
+    background-color:skyblue;
+}
+#scrollingtext{
+    font-size:25px;
+    position:fixed;
+    top:50;
+    line-height: 3;
+    text-shadow: 3px 3px 3px #808080; 
+    color:limegreen;
+    width:100%;
+    font-family: 'Luckiest Guy', cursive;
+}
+#pic{
+    position:fixed;
+    width:1600px;
+    height:600px;
+    bottom:0;
+}
+  .info{
+    font-size:15px;
+    position:fixed;
+    line-height: 3;
+    text-shadow: 3px 3px 3px #808080; 
+    color:limegreen;
+    width:100%;
+    font-family: 'Luckiest Guy', cursive;
+}
+#campus{
+    font-size:20px;
+    color:tomato;
+    font-weight:880px;
+}
+#basketball{
+width:400px;
+height:400px;
+}
+#soccer{
+   width:400px;
+   height:400px; 
+}
